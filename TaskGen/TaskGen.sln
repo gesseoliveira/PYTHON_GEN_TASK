@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TaskGen", "TaskGen\TaskGen.pyproj", "{2C1E4728-DCE9-4E27-862F-8B2A9DA07F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1E4728-DCE9-4E27-862F-8B2A9DA07F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1E4728-DCE9-4E27-862F-8B2A9DA07F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC4890B-DD8D-44A6-91C1-947181CE0117}
+	EndGlobalSection
+EndGlobal
